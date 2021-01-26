@@ -2,7 +2,7 @@
 
 # A Secure Data Sharing Using Dynamic Web Application 
 ###### Author : Avinash Gudipudi
-###### email: gvnsavinash@gmail.com
+###### Email: gvnsavinash@gmail.com
 ###### Operating system used: Windows 10
 
 Working Model:
