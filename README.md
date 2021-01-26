@@ -1,9 +1,9 @@
 # Secure-Data-Sharing-
-A Secure Data Sharing Using Dynamic Web Application 
 
-
-Author: Avinash Gudipudi
-Contant : gvnsavinash@gmail.com
+# A Secure Data Sharing Using Dynamic Web Application 
+###### Author : Avinash Gudipudi
+###### email: gvnsavinash@gmail.com
+###### Operating system used: Windows 10
 
 Specialist/Working Model:
 
