@@ -5,7 +5,7 @@
 ###### email: gvnsavinash@gmail.com
 ###### Operating system used: Windows 10
 
-Specialist/Working Model:
+Working Model:
 
 Data Owner and Data User register first..
 
@@ -24,7 +24,7 @@ if DO dont wants to recive the requests from a particular data user then  DO Rev
 DO can view the Uploaded file details..
 
 
-DU copy the secret code from his registerred mail for login his account.. the secret code is automatically send to the DU mails after registration..
+DU copy the secret code from his registered mail for login his account.. the secret code is automatically send to the DU mails after registration..
 
 DU give a request for Attribute key to trust Authority..
 
